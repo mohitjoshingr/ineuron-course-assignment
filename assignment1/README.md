@@ -1,2 +1,0 @@
-# ineuron-course-assignment
-assignments
